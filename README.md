@@ -26,7 +26,7 @@ This repository documents my daily learning, coding practice, and project progre
 | Skill | Progress |
 |:--|:--|
 | 💻 Data Science 
-| 🧠 DSA (Java) 
+| 🧠 DSA (Java) .
 | 🌐 Full Stack Development 
 
 
