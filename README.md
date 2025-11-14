@@ -10,7 +10,7 @@ This repository documents my daily learning, coding practice, and project progre
 |:--|:--|:--|
 | Nov 5, 2025 | DataTypes of python basics and functions Methods |  |
 | Nov 6, 2025 |  Conditional Statements and Loops|  |
-| Nov 7, 2025 | REST |  |
+| Nov 7, 2025 ---Nov 14-11-25| REST |  |
 | ... | ... | ... |
 
 ---
