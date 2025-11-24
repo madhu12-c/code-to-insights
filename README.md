@@ -15,7 +15,7 @@ This repository documents my daily learning, coding practice, and project progre
 ---
 
 ## 🎯 Current Focus  
-💻 Data Science  
+💻 Data Science 
 🧠 DSA (Java)  
 🌐 Full Stack Development
 
