@@ -11,7 +11,6 @@ This repository documents my daily learning, coding practice, and project progre
 | Nov 7, 2025 ---Nov 14-11-25| REST |  |
 | ... | ... | ... |break
 ---
-
 ## 🎯 Current Focus  
 💻 Data Science 
 🧠 DSA (Java)  
