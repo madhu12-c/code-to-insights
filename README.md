@@ -2,7 +2,6 @@
 # ✨ Code to Insights  
 **My 2025 journey of mastering Data Science, DSA, and Full Stack Development.**  
 This repository documents my daily learning, coding practice, and project progress as I work toward completing a full **Data Science overview by 2025** — from fundamentals to real-world applications.
-
 ## 📅 Daily Progress  
 | Date | Topic | Notes |
 |:--|:--|:--
